@@ -1,6 +1,6 @@
 # mathematical-matrices
 
-![умножение матриц](matrix.cpp)  
+[умножение матриц](matrix.cpp)  
 [транспонирование матриц](matrix2.cpp)  
 [умножение каждого элемента матрицы на число](matrix3.cpp)  
 [сложение матриц](matrix4.cpp)  
